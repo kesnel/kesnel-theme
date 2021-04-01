@@ -1,0 +1,21 @@
+{
+    "name": "vsc-theme",
+    "displayName": "Kesnel Theme",
+    "description": "Official Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kesnel Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kesnel Theme-color-theme.json"
+            }
+        ]
+    }
+}
