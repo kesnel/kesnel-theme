@@ -2,24 +2,24 @@
     "name": "vsc-theme",
     "displayName": "Kesnel Theme",
     "description": "Official Kesnel Theme made for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.6",
     "publisher": "kesnelsamuel",
-    "icon": "images/kesnel.jpeg",
     "engines": {
         "vscode": "^1.55.0"
-    },  
+    },
+    "icon": "images/kesnel.jpeg",
     "author": {
         "name": "Kesnel Samuel",
         "email": "kesnelsamuel@gmail.com",
         "url": "https://kesnelsamuel.com"
     },
     "bugs": {
-      "url": "https://github.com/kesnel/kesnel-theme/issues",
-      "email": "kesnelsamuel@gmail.com"
+        "url": "https://github.com/kesnel/kesnel-theme/issues",
+        "email": "kesnelsamuel@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:kesnel/kesnel-theme.git"
+        "url": "https://github.com/kesnel/kesnel-theme"
     },
     "keywords": [
         "theme",
