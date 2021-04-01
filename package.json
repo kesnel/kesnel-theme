@@ -1,11 +1,24 @@
 {
     "name": "vsc-theme",
     "displayName": "Kesnel Theme",
-    "description": "Official Theme",
+    "description": "Official Kesnel Theme made for VS Code",
     "version": "0.0.1",
+    "publisher": "kesnelsamuel",
     "engines": {
         "vscode": "^1.55.0"
+    },  
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:kesnel/kesnel-theme.git"
     },
+    "icon": "images/profil/kesnel.jpeg",
+    "keywords": [
+        "theme",
+        "Kesnel Theme",
+        "Dark Mode",
+        "Kesnel Samuel",
+        "Kesnel"
+    ],
     "categories": [
         "Themes"
     ],
