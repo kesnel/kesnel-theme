@@ -7,9 +7,9 @@
     "engines": {
         "vscode": "^1.55.0"
     },
-    "icon": "images/kesnel.jpeg",
+    "icon": "punaise/profil/kesnel.jpeg",
     "author": {
-        "name": "Kesnel Samuel",
+        "name": "Kesnel Samuel Jean Philippe",
         "email": "kesnelsamuel@gmail.com",
         "url": "https://kesnelsamuel.com"
     },
@@ -26,7 +26,10 @@
         "Kesnel Theme",
         "Dark Mode",
         "Kesnel Samuel",
-        "Kesnel"
+        "Kesnel",
+        "Kesnel Samuel Jean Philippe",
+        "Beautifull vs code theme",
+        "visual studio code"
     ],
     "categories": [
         "Themes"
