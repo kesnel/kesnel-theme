@@ -6,10 +6,10 @@
 
 Hello guys, this is my first Vs code color theme extension, wish you guys install and enjoy it 😅😉
 
-## Theme colors
+### Theme colors
 
 
-# Installation
+### Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `kesnel theme`
@@ -17,7 +17,7 @@ Hello guys, this is my first Vs code color theme extension, wish you guys instal
 4. Code > Preferences > Color Theme > **kesnel theme**
 5. Optional: Use the recommended settings below for best experience
 
-## Contributing
+### Contributing
 
 To work on the theme:
 
