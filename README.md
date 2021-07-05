@@ -4,7 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kesnel/kesnel-theme)
 ![GitHub contributors](https://img.shields.io/github/contributors/kesnel/kesnel-theme)
 
-Hello guys, this is my first Vs code color theme extension, wish you guys install and enjoy it 😅😉
+Hello guys, this is my first Vs code color theme extension, wish you guys install and enjoy it. 
+Here's the Link for anyone who want to install it on VS code... Also feel free to contribute if you want to 😅🤝
 
 ## Installation
 
