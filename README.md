@@ -1,5 +1,6 @@
 # Kesnel Theme
 ![version number](https://vsmarketplacebadge.apphb.com/version/codercoder.codercoder-dark-theme.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/kesnel/kesnel-theme)
 
 ## Theme colors
 
