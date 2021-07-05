@@ -1,4 +1,5 @@
 # Kesnel Theme
+![version number](https://vsmarketplacebadge.apphb.com/version/codercoder.codercoder-dark-theme.svg)
 
 ## Theme colors
 
