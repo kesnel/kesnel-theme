@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/kesnel/kesnel-theme)
 
 Hello guys, this is my first Vs code color theme extension, wish you guys install and enjoy it. 
-Here's the <a href="https://marketplace.visualstudio.com/items?itemName=kesnelSamuel.vsc-theme"> Link </a> for anyone who want to install it on VS code... Also feel free to contribute if you want to 😅🤝
+Here's the <a href="https://marketplace.visualstudio.com/items?itemName=kesnelSamuel.vsc-theme" target="_blank"> Link </a> for anyone who want to install it on VS code... Also feel free to contribute if you want to 😅🤝
 
 ## Installation
 
