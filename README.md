@@ -9,7 +9,7 @@ Here's the <a target="_blank" href="https://marketplace.visualstudio.com/items?i
 
 ## Preview
 
-<img alt="Kesnel theme on visual studio code" url="punaise/img/preview.png" />
+<img alt="Kesnel theme on visual studio code" src="punaise/img/preview.png" />
 
 ## Installation
 
