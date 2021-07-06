@@ -7,6 +7,10 @@
 Hello guys, this is my first Vs code color theme extension, wish you guys install and enjoy it. 
 Here's the <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=kesnelSamuel.vsc-theme"> Link </a> for anyone who want to install it on VS code... Also feel free to contribute if you want to 😅🤝
 
+## Preview
+
+<img alt="Kesnel theme on visual studio code" url="punaise/img/preview.png" />
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
