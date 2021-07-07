@@ -1,5 +1,6 @@
 # Kesnel Theme
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/kesnelSamuel.vsc-theme)
+![GitHub](https://img.shields.io/github/license/kesnel/kesnel-theme)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/kesnelSamuel.vsc-theme)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kesnel/kesnel-theme)
 ![GitHub contributors](https://img.shields.io/github/contributors/kesnel/kesnel-theme)
